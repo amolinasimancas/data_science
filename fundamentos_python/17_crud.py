@@ -34,3 +34,7 @@ print(numeros)
 lista = [34, 56, 12, 43, 2, 134]
 lista.sort()
 print(lista)
+# Ordenar strings
+nombres = ["ricardo", "maria", "liliana", "ambar", "tanger"]
+nombres.sort()
+print(nombres)
