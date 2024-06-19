@@ -1,0 +1,10 @@
+tuple = ("abc", "def", "xyz", "xyz")
+print(tuple)
+set = set(tuple)
+print(set)
+unique = list(set)
+print(unique)
+lista = []
+print(type(lista))
+contador = range(1,11)
+print(contador)
