@@ -1,0 +1,11 @@
+{
+	"main": {
+		"temp":293.15
+	},
+	"weather": [
+		{
+			"description":"clear sky"
+		}
+	],
+	"name":"London"
+}

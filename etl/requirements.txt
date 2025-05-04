@@ -1,0 +1,16 @@
+# Dev environment
+pip
+autopep8
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+requests
+#google-generativeai
+#sqlalchemy
+#pysqlite3
+
+# App
+#google-generativeai # Client library for the Gemini API
+#Pillow # PIL image-loading library
