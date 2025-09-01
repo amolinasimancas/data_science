@@ -9,8 +9,7 @@ def draw_triangle(size, character):
 
 print (draw_triangle(10,"*"))
 
-"""
-Otra forma de resolver el problema:
+# Otra forma de resolver el problema:
 
 def print_triangle(size, character):
     triangle = ""
@@ -24,4 +23,3 @@ def print_triangle(size, character):
     return triangle
 
 print(print_triangle(10, "*"))
-"""

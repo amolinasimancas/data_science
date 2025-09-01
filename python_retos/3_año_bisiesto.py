@@ -17,8 +17,7 @@ print(is_leap_year(2000))
 print(is_leap_year(-2024))
 print(is_leap_year(1984.25))
 
-"""
-Otra forma de resolverlo:
+# Otra forma de resolverlo:
 
 def is_leap_year(year):
     if year % 1 != 0 or year <= 0:
@@ -36,4 +35,3 @@ def is_leap_year(year):
        
 response = is_leap_year(2000)
 print(response)
-"""
